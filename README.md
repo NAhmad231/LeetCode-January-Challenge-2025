@@ -7,7 +7,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 ## Problems Solved
 | Day | Problem                                              | Solution                                   |
 |-----|----------------------------------------------------- |--------------------------------------------|
-| 1   | [1422. Maximum Score After Splitting a String]((https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01)) 
+| 1   | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01)
 | 2   | |
 | 3   | 
 
