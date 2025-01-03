@@ -9,7 +9,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 |-----|----------------------------------------------------- |--------------------------------------------|
 | 1   | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01) | [Day1_MaximumScoreAfterSplittingString.cpp](./Day1_MaxScoreAfterSplittingAString.cpp) |
 | 2   | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02) | [Day2_Count Vowel Strings in Ranges](./Day2_CountVowelsStringInRanges.cpp)| 
-| 3   | 
+| 3   | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03) | [Day3_Number of Ways to Split Array](./Day3_NoOfWaysToSplitArray.cpp)|
 
 ---
 
