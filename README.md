@@ -10,6 +10,10 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 1   | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01) | [Day1_MaximumScoreAfterSplittingString.cpp](./Day1_MaxScoreAfterSplittingAString.cpp) |
 | 2   | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02) | [Day2_Count Vowel Strings in Ranges](./Day2_CountVowelsStringInRanges.cpp)| 
 | 3   | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03) | [Day3_Number of Ways to Split Array](./Day3_NoOfWaysToSplitArray.cpp)|
+| 4   | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-04) | [Day4_UniqueLength3PalindromicSubsequences](./Day4_UniqueLength3PalindromicSubsequences.cpp)|
+| 5   | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05) |[Day5_ShiftingLettersII](./Day5_ShiftingLettersII.cpp)|
+| 6   | [Minimum Number Of Operations To Move All Balls To Eeach Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/?envType=daily-question&envId=2025-01-06) |[Day6_MinimumNoOfOperationsToMoveAllballsToEachBox](./Day6_MinimumNoOfOperationsToMoveAllballsToEachBox.cpp)|
+| 7   | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-07) |[Day7_StringMatchinInAnArray.cpp](./Day7_StringMatchinInAnArray.cpp)|
 
 ---
 
