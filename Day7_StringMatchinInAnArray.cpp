@@ -1,17 +1,18 @@
 class Solution {
 public:
-    vector<string> stringMatching(vector<string>& words) {
-        int n = words.size();
-        vector<string>result;
-        for(int i=0 ; i<n ; i++){
-            for(int j=0 ; j<n ; j++){
-                if(i == j) continue;
-                if((words[j].find(words[i]) != string::npos)){
-                    result.push_back(words[i]);
-                    break;
+    int countPrefixSuffixPairs(vector<string>& words) {
+        int count = 0;                    
+        int numWords = words.size();       
+        for (int i = 0; i < numWords; ++i) {
+            string prefixSuffix = words[i];      
+            for (int j = i + 1; j < numWords; ++j) {
+                string candidate = words[j]; 
+                if (candidate.find(prefixSuffix) == 0 &&
+                    candidate.rfind(prefixSuffix) == candidate.length() - prefixSuffix.length()) {
+                    count++;    
                 }
             }
         }
-        return result;
+        return count; 
     }
 };
