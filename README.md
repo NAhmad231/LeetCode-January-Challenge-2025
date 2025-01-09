@@ -14,7 +14,8 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 5   | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05) |[Day5_ShiftingLettersII](./Day5_ShiftingLettersII.cpp)|
 | 6   | [Minimum Number Of Operations To Move All Balls To Eeach Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/?envType=daily-question&envId=2025-01-06) |[Day6_MinimumNoOfOperationsToMoveAllballsToEachBox](./Day6_MinimumNoOfOperationsToMoveAllballsToEachBox.cpp)|
 | 7   | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-07) |[Day7_StringMatchinInAnArray.cpp](./Day7_StringMatchinInAnArray.cpp)|
-
+| 8   | [Count Prefix And Suffix PairsI](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09) |[Day8_CountPrefixAndSuffixPairsI](./Day7_StringMatchinInAnArray.cpp)
+| 9   | [Counting Words With A Given Prefix](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08) | [Day9_CountingWordsWithAGivenPrefix](./Day9_CountingWordsWithAGivenPrefix.cpp)
 ---
 
 ## How to Use
