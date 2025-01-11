@@ -17,7 +17,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 8   | [Count Prefix And Suffix PairsI](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09) |[Day8_CountPrefixAndSuffixPairsI](./Day7_StringMatchinInAnArray.cpp)
 | 9   | [Counting Words With A Given Prefix](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08) | [Day9_CountingWordsWithAGivenPrefix](./Day9_CountingWordsWithAGivenPrefix.cpp)
 | 10  | [WordSubsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10) | [Day10_WordSubsets](./Day10_WordSubsets.cpp)
-| 11  | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11) | [ConstructKpalindromeStrings](./ConstructKpalindromeStrings.cpp)
+| 11  | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11) | [Day11_ConstructKpalindromeStrings](./Day11_ConstructKpalindromeStrings.cpp)
 ---
 
 ## How to Use
