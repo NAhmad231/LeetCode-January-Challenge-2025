@@ -19,7 +19,8 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 10  | [WordSubsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10) | [Day10_WordSubsets](./Day10_WordSubsets.cpp)
 | 11  | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11) | [Day11_ConstructKpalindromeStrings](./Day11_ConstructKpalindromeStrings.cpp)
 | 13  | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13) | [Day13_MinimumLengthofStringAfterOperations](./Day13_MinimumLengthofStringAfterOperations.cpp)
-| 14  | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Day14_FindthePrefixCommonArrayofTwoArrays](./Day14_FindthePrefixCommonArrayofTwoArrays.cpp_)
+| 14  | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Day14_FindthePrefixCommonArrayofTwoArrays](./Day14_FindthePrefixCommonArrayofTwoArrays.cpp)
+
 ---
 
 ## How to Use
