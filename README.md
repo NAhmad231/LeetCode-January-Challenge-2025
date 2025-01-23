@@ -22,6 +22,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 14  | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Day14_FindthePrefixCommonArrayofTwoArrays](./Day14_FindthePrefixCommonArrayofTwoArrays.cpp)
 | 15  | [ Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/?envType=daily-question&envId=2025-01-16) | [Day16_BitwiseXORofAllPairing](./Day16_BitwiseXORofAllPairing.cpp)
 | 17  | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/?envType=daily-question&envId=2025-01-17) | []()
+| 21  | [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2025-01-23) | [Day23_CountServersThatCommunicate](./Day23_CountServersThatCommunicate.cpp)
 ---
 
 ## How to Use
